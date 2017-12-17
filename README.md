@@ -1,3 +1,7 @@
+My name is github_Wend.
+
+I have wended my way through the bramble of explanations on how to create a repository and have done so.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wendcoin/wend.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
